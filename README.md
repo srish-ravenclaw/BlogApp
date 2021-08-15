@@ -23,9 +23,12 @@ On the main you would be able to see all the posts which has been created(and ar
 **Let's have a glimpse of the web application.**
 
 ->**Main Page**
-![ss1](https://user-images.githubusercontent.com/56797284/129484535-a62d5ea0-51cd-403f-a6a1-bd202ee5cd71.png)
+![ss1](https://user-images.githubusercontent.com/56797284/129484697-1902bac6-b229-4072-86e8-1bd9b7e37151.png)
+
 ->**Create Post Page**
-![ss2](https://user-images.githubusercontent.com/56797284/129484536-a5609e5e-0b5f-4f0b-9b17-acbd98773fe3.png)
+![ss2](https://user-images.githubusercontent.com/56797284/129484705-9a953d86-ebbb-4daa-bc1c-f2246a3d348b.png)
+
 ->**View (Edit/Delete/Comment) Post Page**
-![ss3](https://user-images.githubusercontent.com/56797284/129484537-bea0e0b6-25f4-48cc-817e-0543c0c95548.png)
+
+![ss3](https://user-images.githubusercontent.com/56797284/129484706-591cbabc-487a-4e63-884b-f8984a8369d3.png)
 
