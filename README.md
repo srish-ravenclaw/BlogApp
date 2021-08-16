@@ -12,11 +12,11 @@ It is a web application developed using Ruby on Rails framework and SQLite3 Data
 
 **How to use**
 
-On the main you would be able to see all the posts which has been created(and are not deleted)
+On the main page you would be able to see all the posts which has been created(and are not deleted)
 -> On the left side of each page, there is a button named Demo Blog. Clicking it, you will be redirected to the main page.
 ->On the right side there is a button named Create a New Post. Clicking it, you will be redirected to the page where you can create a post.
-  ->After creating the post, you will be redirected to that post. If you want to edit or delete it then, there are respective buttons on the side.
-  ->Down the post, there is a button to comment on that post
+  1.After creating the post, you will be redirected to that post. If you want to edit or delete it then, there are respective buttons on the side.
+  2.Down the post, there is a button to comment on that post
 ->On the main page, if you will click on a particaular post title, then you will be redirected to the page of that post.
 ->The total number of comments on that post would be visible, next to that post.
 
