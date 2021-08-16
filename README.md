@@ -2,7 +2,7 @@
 
 **Description:**
 
-It is a web application developed using Ruby on Rails framework and Sqlite3 for backend and Bulma frmework for Frontend
+It is a web application developed using Ruby on Rails framework and SQLite3 Database for Backend and Bulma framework for Frontend
 
 **Functionalities Included**
 
